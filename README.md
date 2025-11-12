@@ -103,6 +103,7 @@ streamlit
 pandas
 plotly
 openpyxl
+matplotlib
 ```
 
 Then install the dependencies:

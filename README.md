@@ -4,6 +4,7 @@
 This project explores global sales trends for Nike in 2024 through the lens of **user-centered data exploration**. The primary goal was to design and evaluate a responsive dashboard that allows stakeholders (e.g., product managers, regional analysts, designers) to identify actionable trends based on **geography, category, and pricing**.
 
 Built with **Streamlit**, the dashboard enables intuitive exploration and interaction with dynamic data visualizations.
+For the easy way to explore the website: https://nike2024globalmarketanalysis-4tgwjq3xmo7ca72azfhfy2.streamlit.app/
 
 ---
 
